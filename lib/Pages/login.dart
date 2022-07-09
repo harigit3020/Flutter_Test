@@ -1,6 +1,5 @@
 // ignore_for_file: deprecated_member_use, prefer_const_constructors
-
-import 'package:data_list/Functions.dart/userAlerts.dart';
+import 'package:data_list/Functions/userAlerts.dart';
 import 'package:data_list/Navigation/routeNames.dart';
 import 'package:flutter/material.dart';
 
